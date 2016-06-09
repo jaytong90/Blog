@@ -3,7 +3,7 @@ title: 李贤俊:D博客
 email: coolnameismy@hotmail.com
 description: > #李贤俊:D博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://lxlanj.github.io" # the base hostname & protocol for your site
+url: "http://lxlanj.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  LxlanJ
 
@@ -16,7 +16,7 @@ author:                                     #自定义常亮
   email: 
   link: 
   weibo: 
-  github: https://github.com/LxlanJ
+  github: http://github.com/LxlanJ
 title: 李贤俊:D博客                            #自定义常量
 
 # avatar头像及Favicon
