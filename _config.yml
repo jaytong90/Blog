@@ -20,6 +20,7 @@ title: Jian's Blog                          #自定义常量
 
 # avatar头像及Favicon
 avatar: http://www.theavatarlibrary.co.uk/avatars/kancolle/kancolle-shimakaze-07b.jpg
+favion: http://convertico.com/test/jpg-to-ico/574a2c192e1a6/shimakaze-kantai-collection.ico
 
 locals:                                     #自定义常量
   tags: 标签
