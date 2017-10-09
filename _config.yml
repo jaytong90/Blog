@@ -28,18 +28,3 @@ locals:                                     #自定义常量
 active: 技术                                 #自定义常量
 subscribe_rss: /pages/atom.xml              #订阅地址
 markdown: kramdown                         #markdown解释器
-
-# google analytics 设置
-#ga:
-#  id:
-#  url:
-#
-
-# baidu analytics 设置
-
-ba:
-  src: //hm.baidu.com/hm.js?22d94317cfb9f9e0bb476228d9f79278
-
-# disqus 设置
-disqus:
-  shortname: lxlanj
