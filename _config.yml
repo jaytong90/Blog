@@ -20,7 +20,6 @@ title: Jian's Blog                          #自定义常量
 
 # avatar头像及Favicon
 avatar: http://www.theavatarlibrary.co.uk/avatars/kancolle/kancolle-shimakaze-07b.jpg
-#favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 locals:                                     #自定义常量
   tags: 标签
@@ -28,3 +27,6 @@ locals:                                     #自定义常量
 active: 技术                                 #自定义常量
 subscribe_rss: /pages/atom.xml              #订阅地址
 markdown: kramdown                         #markdown解释器
+
+disqus:
+  shortname: Tongj
