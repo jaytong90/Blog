@@ -3,7 +3,7 @@ title: 童建的博客
 email: tstj9022@gmail.com
 description: Jay Tong’s home #李贤俊:D博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jaytong.github.io" # the base hostname & protocol for your site
+url: "https://jaytong.github.io" # the base hostname & protocol for your site
 twitter_username: Tong_Jan
 github_username:  jaytong90
 
