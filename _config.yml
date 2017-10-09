@@ -13,10 +13,9 @@ permalink: /:year/:month/:day/:title.html   #博文的固定链接
 paginate: 10                                #分页时每页博文数量
 author:                                     #自定义常亮
   name: 童建
-  email: 
-  link: 
-  weibo: 
-  github: http://github.com/LxlanJ
+  email: tstj9022@gmail.com
+  weibo: stressJ
+  github: http://github.com/jaytong90
 title: Jian's Blog                          #自定义常量
 
 # avatar头像及Favicon
