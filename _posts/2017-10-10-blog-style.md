@@ -64,15 +64,15 @@ It can also be done by leaving a blank line between two texts, but the distance 
 
 #### Italic, bold & delete line
 
-| 语法                               | 效果                             |
-| -------------------------------- | ------------------------------ |
-| `*Italic1*`                      | *Italic1*                      |
-| `_Italic2_`                      | _Italic2_                      |
-| `**bold1**`                      | **bold1**                      |
-| `__bold2__`                      | __bold2__                      |
-| `This is a ~~delete~~`           | This is a ~~delete~~           |
-| `***Italic bold 1***`            | ***Italic bold 1***            |
-| `___Italic bold 2___`            | ___Italic bold 2___            |
+| grammar                          |                          output|
+| :------------------------------- | -----------------------------: |
+| `*Italic1*`                      |                      *Italic1* |
+| `_Italic2_`                      |                      _Italic2_ |
+| `**bold1**`                      |                      **bold1** |
+| `__bold2__`                      |                      __bold2__ |
+| `This is a ~~delete~~`           |           This is a ~~delete~~ |
+| `***Italic bold 1***`            |            ***Italic bold 1*** |
+| `___Italic bold 2___`            |            ___Italic bold 2___ |
 | `***~~Italic bold delete 1~~***` | ***~~Italic bold delete 1~~*** |
 | `~~***Italic bold delete 2***~~` | ~~***Italic bold delete 2***~~ |
 
