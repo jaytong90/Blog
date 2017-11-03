@@ -3,25 +3,7 @@ layout: post
 title: Welcome
 ---
 
-## 博客的作用
----
+*Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.*
 
-对我而言博客作为一个很好的公共平台，可以很方便地记录有意义的时刻，或者是分享解决问题的经验。2017年之前,没有过萌生过记录生活的想法，现在想起来确是个遗憾。但正所谓“朝闻道，夕死可矣”，能将每次的或大或小的收获记录下来，回头看来又何尝不是一种快乐。
+**Albert Einstein**
 
-## 基本资料
----
-
--  博主：童建，NUS在读博士
--  爱好：跑步，摄影，做菜
--  编程：C,Fortran,Python(学习中)
--  语言能力：中文，英语，日语
--  日常在玩的游戏：FGO，Azurlane
--  偶尔玩的游戏：Dota2，Warship Girls，Minecraft
--  可能会回坑的游戏：World of Warcraft，Overwatch，Bordland，ESOL
-
-## 其他
----
-
-一般周更，如果有问题可以直接评论，私人事务请发邮件。
-
--   微信二维码占位符
