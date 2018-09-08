@@ -6,6 +6,9 @@ keywords: poem
 ---
 
 
+This poem is based on __Do not stand at my grave and weep__, written by Mary Elizabeth Frye. 
+It was written in honor of Dak Krause.
+
 	Do not stand at my grave and weep, 
 	请不要在我的墓前啜泣，
 	I am not there, I do not sleep. 
@@ -38,3 +41,59 @@ keywords: poem
 	请不要在我的墓前哭泣，
 	I am not there. I do not die. 
 	我不在那里，我从未停息。
+	
+__Do not stand at my grave and weep__
+
+	Do not stand at my grave and weep,
+	不要在我的坟前哭泣，
+	I am not there, I do not sleep.
+	我不在那，我未沉眠。
+	I am in a thousand winds that blow,
+	我身在千风吹送著，
+	I am the softly falling snow.
+	我身在柔和的落雪。
+	I am the gentle showers of rain,
+	我身在雨中细柔的淋浴著，
+	I am the fields of ripening grain.
+	我身在成熟谷物的田野。
+	I am in the morning hush,
+	我身在早晨的宁静，
+	I am in the graceful rush.
+	我身在优美的急流。
+	Of beautiful birds in circling flight,
+	美丽的鸟儿在上盘旋，
+	I am the starshine of the night.
+	我化为夜晚的星光。
+	I am in the flowers that bloom,
+	我身在盛开的花朵，
+	I am in a quiet room.
+	我身在宁静的房里。
+	I am in the birds that sing,
+	我身在鸟儿的歌声中，
+	I am in each lovely thing.
+	我身在每样可爱的事物中。
+	Do not stand at my grave and cry,
+	别站在我的坟前哭泣，
+	I am not there. I do not die.
+	我不在那，我还未离世。
+	
+__千の风になって__
+	私のお墓の前で　泣かないでください
+	そこに私はいません　眠ってなんかいません
+	千の风に千の风になって
+	あの大きな空を 吹きわたっています
+	秋には光になって　畑にふりそそぐ
+	冬はダイヤのように　きらめく雪になる
+	朝は鸟になって　あなたを目覚めさせる
+	夜は星になって　あなたを见守る
+	私のお墓の前で　泣かないでください
+	そこに私はいません　死んでなんかいません
+	千の风に 千の风になって
+	あの大きな空を 吹きわたっています
+	千の风に 千の风になって
+	あの大きな空を 吹きわたっています
+
+
+
+
+
