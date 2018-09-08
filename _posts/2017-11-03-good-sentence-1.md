@@ -1,7 +1,7 @@
 ---
 layout: post
 title: poem
-category: study
+category: ѧϰ
 keywords: poem
 ---
 
