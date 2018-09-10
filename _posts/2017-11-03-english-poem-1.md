@@ -30,7 +30,7 @@ the thunderous hooves across Nagrand.
 追隨納德蘭的萬鈞馬蹄。  
 I am the stars warmly gleaming,  
 我是閃耀天際的溫暖繁星，  
-over Darnassus softly dreaming.
+over Darnassus softly dreaming.  
 點綴達納蘇斯的溫柔夢境。  
 I am in the birds that sing,  
 我是裊裊高歌的飛鳥，  
