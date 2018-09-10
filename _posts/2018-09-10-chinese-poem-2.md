@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 唐詩宋詞節選其二
-category: 學習
+category: 詩詞
 keywords: 唐詩宋詞
 ---
 

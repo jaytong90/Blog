@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 讀書筆記——東京塔
-category: 學習
+category: 讀書筆記
 keywords: 外國小說，東京塔
 ---
 
