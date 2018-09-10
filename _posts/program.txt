@@ -1,7 +1,0 @@
-mpirun --allow-run-as-root -np 16 SimpleC 8 ln.ij
-mpicc -L../../../src simple.o -llammps_mpi -lmpi -lm -lpthread -lstdc++ -o SimpleC
-mpicc -I../../../src -c simple.c
-stat command to see the file status
-make clean-all
-make no-all
-make -j4 mpi mode=lib

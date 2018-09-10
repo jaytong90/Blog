@@ -2,7 +2,7 @@
 layout: post
 title: Alicia's Poem
 category: 學習
-keywords: poem
+keywords: English poem
 ---
 
 
@@ -19,7 +19,7 @@ across Northrend's bright and shining snow.
 I am the gentle showers of rain,  
 我已化作陣陣細雨，  
 on Westfall's fields of golden grain.  
-滋潤西部荒野的璀璨麥絮。	
+滋潤西部荒野的璀璨麥絮。	 
 I am in the morning hush,  
 我於晨曦靜謐之中，  
 of Stranglethorn's jungle, green and lush.  
